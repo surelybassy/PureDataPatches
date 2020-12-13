@@ -9,7 +9,7 @@ Video Examples:
 
 Gamepad controlled cubes - https://youtu.be/B9SyLtsWsAA
 
-![Midi controlled boxes ](pd.png)
+![Midi controlled boxes ](pd1.png)
 
 Midi controlled boxes - https://youtu.be/eRzTSCeT7N0
 
